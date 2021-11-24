@@ -2,7 +2,7 @@
 
 **OLA Trigger config to control Zigbee lights, scenes, power plugs and dimmers using a Philips Hue bridge with DMX (Art-Net, sACN or via DMX input)**
 
-Revised for [Hue API V2](https://developers.meethue.com/new-hue-api/)  
+Beta version revised for [Hue API V2](https://developers.meethue.com/new-hue-api/)  
 
 There is only one lamp, one power plug and ten scenes in this config but you can easy add more or contact me for a custom solution.  
   
