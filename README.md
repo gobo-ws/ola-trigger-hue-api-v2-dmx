@@ -1,4 +1,4 @@
-![DMX-Hue](dmxhue.png)
+![DMX-Hue](dmx-hue.png)
 
 **OLA Trigger config to control Zigbee lights, scenes, power plugs and dimmers using a Philips Hue bridge with DMX (Art-Net, sACN or via DMX input)**
 
